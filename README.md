@@ -1,9 +1,12 @@
-## Hi, I'm Ash 👋
+## Aishwarya Roy
+B.Tech CSE (AI & ML) | Aspiring ML Engineer
 
-I'm learning Machine Learning and building practical projects step by step.
+### Projects
+- **IPL Win Probability Predictor** — Random Forest model predicting 
+  IPL match outcomes by venue. 58% accuracy.
+  
+### Skills
+Python | scikit-learn | Pandas | Random Forest | NLP | MERN Stack
 
-🔹 Currently learning: ML fundamentals, embeddings, LLMs  
-🔹 Current project: RAG-based Document Question Answering  
-🔹 Tools: Python, Git, Pandas, basic ML libraries  
-
-This GitHub documents my learning journey.
+### Currently building
+RAG (Retrieval Augmented Generation) system from scratch
